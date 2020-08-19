@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b8fc7ff-1569-4992-b9cd-235577389d19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/fauna_db_client.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fauna-db-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fauna_db_client.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/Main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/fauna/PostRepository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/fauna/entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/fauna/fauna_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/fauna/identity_factory.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/fauna/pagination_option.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/fauna/post.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/fauna/post.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/fauna/repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/fauna_db_client_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KonanWorkspace">
+    <executables />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fRkLsuDirvfbwGD3RxiLqz37Jj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/src/fauna" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/src/fauna" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/src" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Test.All result can be returned in fauna_db_client_test.dart">
+    <configuration name="A post can be removed from fauna in fauna_db_client_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/fauna_db_client_test.dart" />
+      <option name="scope" value="GROUP_OR_TEST_BY_NAME" />
+      <option name="testName" value="A post can be removed from fauna" />
+      <method v="2" />
+    </configuration>
+    <configuration name="A post can be saved to fauna with an id in fauna_db_client_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/fauna_db_client_test.dart" />
+      <option name="scope" value="GROUP_OR_TEST_BY_NAME" />
+      <option name="testName" value="A post can be saved to fauna with an id" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Add a post to fauna in fauna_db_client_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/fauna_db_client_test.dart" />
+      <option name="scope" value="GROUP_OR_TEST_BY_NAME" />
+      <option name="testName" value="Add a post to fauna" />
+      <method v="2" />
+    </configuration>
+    <configuration name="All result can be returned in fauna_db_client_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/fauna_db_client_test.dart" />
+      <option name="scope" value="GROUP_OR_TEST_BY_NAME" />
+      <option name="testName" value="All result can be returned" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test if next id can can be generated in fauna_db_client_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/fauna_db_client_test.dart" />
+      <option name="scope" value="GROUP_OR_TEST_BY_NAME" />
+      <option name="testName" value="Test if next id can can be generated" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Test.All result can be returned in fauna_db_client_test.dart" />
+        <item itemvalue="Dart Test.A post can be saved to fauna with an id in fauna_db_client_test.dart" />
+        <item itemvalue="Dart Test.A post can be removed from fauna in fauna_db_client_test.dart" />
+        <item itemvalue="Dart Test.Test if next id can can be generated in fauna_db_client_test.dart" />
+        <item itemvalue="Dart Test.Add a post to fauna in fauna_db_client_test.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Workspace/id-cybertron" value="PREVIEW" />
+        <entry key="$USER_HOME$/Workspace/id-cybertron-secret-loader" value="PREVIEW" />
+        <entry key="$USER_HOME$/Workspace/id-scouch" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../finagle/doc/src/sphinx/code/quickstart" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b8fc7ff-1569-4992-b9cd-235577389d19" name="Default Changelist" comment="" />
+      <created>1596188239627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596188239627</updated>
+      <workItem from="1596188243535" duration="606000" />
+      <workItem from="1596482494779" duration="1875000" />
+      <workItem from="1596746382054" duration="491000" />
+      <workItem from="1597699653142" duration="9007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597813908228">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="458" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.812@0.23.1440.812" timestamp="1597813908228" />
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom" timestamp="1597819508268">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1597786100369" />
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1597819508268" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center" timestamp="1597819508267">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1597786100368" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1597819508267" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left" timestamp="1597819508266">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1597786100367" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1597819508266" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right" timestamp="1597819508267">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1597786100368" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1597819508267" />
+    <state x="450" y="164" width="540" height="524" key="StructurePopup" timestamp="1597817227033">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="450" y="164" width="540" height="524" key="StructurePopup/0.23.1440.812@0.23.1440.812" timestamp="1597817227033" />
+  </component>
+</project>
